@@ -1,6 +1,7 @@
 # FPV Night Vision with Face Dectection
 In this project I created a small script for a fast face detection system using a Raspberry Pi 3B+ reaching around 5 Frames Per Second using OpenCV and Python
 
+![alt text](https://github.com/Hanqaqa/FPV_Night_Vision/blob/master/Media/Night_Vision_Raspberry.jpg)
 
 I will be using a Raspberry Pi 3B+ with Raspbian installed and a original NoIR camera which will be stuck using double sided tape in the front of some FPV goggles.
 The whole system will be powered by a portable 10000 mAh battery which has a current draw of around 0.8 Amps when the system is working, therefore one can expect around 10 hours of use.
@@ -11,7 +12,7 @@ For the face detection algorithm I will be using a Haar Cascade algorithm due to
 The parameters chosen for the Haar Cascade were: 
 
 | Parameter| Choice|
-|-----------|-------|
+|:-----------:|:------:|
 | Resolution| 640*360 |
 |Scale Factor| 1,2 |
 |Minimum Neighbours| 5| 
