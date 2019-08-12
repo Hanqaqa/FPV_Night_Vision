@@ -3,6 +3,8 @@ In this project I created a small script for a fast face detection system using 
 
 ![alt text](https://github.com/Hanqaqa/FPV_Night_Vision/blob/master/Media/Night_Vision_Raspberry.jpg)
 
+![alt text](https://github.com/Hanqaqa/FPV_Night_Vision/blob/master/Media/Capture.JPG)
+
 I will be using a Raspberry Pi 3B+ with Raspbian installed and a original NoIR camera which will be stuck using double sided tape in the front of some FPV goggles.
 The whole system will be powered by a portable 10000 mAh battery which has a current draw of around 0.8 Amps when the system is working, therefore one can expect around 10 hours of use.
 
