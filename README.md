@@ -9,6 +9,7 @@ I used OpenCV in conjunction with Python to create and try to get the best perfo
 Most of the explanations are in the Jupyter Notebook OpenCVTests.ipynb, although the main script Raspberry_Night_Vision also has some small comments.
 For the face detection algorithm I will be using a Haar Cascade algorithm due to its simplicty and availability. The best parameters were chosen so it could detect only small faces, saving some during the repetition of the algorithm and therefore getting a more fluid video.
 The parameters chosen for the Haar Cascade were: 
+
 | Parameter| Choice|
 |-----------|-------|
 | Resolution| 640*360 |
