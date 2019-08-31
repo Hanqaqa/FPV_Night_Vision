@@ -23,3 +23,5 @@ The parameters chosen for the Haar Cascade were:
 
 
 There is a video in the Media folder showing its performance in real time as well as some photos of the device.
+
+There is a copy of said video in my youtube channel https://www.youtube.com/watch?v=mW6GDMFpXwM
